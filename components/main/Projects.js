@@ -15,7 +15,7 @@ const projects = [
             'Spotify Api',
             'Recoil'
         ],
-        gitLink: 'https://github.com/YuriCorredor/spotify-clone',
+        gitLink: 'https://github.com/smartfox1203/spotify-clone',
         bgPath: '/spotify.jpg'
     },
     {
@@ -30,7 +30,7 @@ const projects = [
             'Tailwind',
             'TMDB API'
         ],
-        gitLink: 'https://github.com/YuriCorredor/search-top-movies',
+        gitLink: 'https://github.com/smartfox1203/search-top-movies',
         bgPath: '/movies.jpg'
     },
     {
@@ -45,7 +45,7 @@ const projects = [
             'Yup',
             'Formik'
         ],
-        gitLink: 'https://github.com/YuriCorredor/fablec',
+        gitLink: 'https://github.com/smartfox1203/fablec',
         bgPath: '/fablec.jpg'
     },
     {
@@ -62,7 +62,7 @@ const projects = [
             'SQLAlchemy',
             'Expo'
         ],
-        gitLink: 'https://github.com/YuriCorredor/chat-app',
+        gitLink: 'https://github.com/smartfox1203/chat-app',
         bgPath: '/chat.jpg'
     },
 ]

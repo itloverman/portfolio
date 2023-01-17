@@ -81,23 +81,23 @@ export default function Home() {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://github.com/smartfox1203"
+                href="https://github.com/adamsims1203"
                 className={`px-2 hover:scale-125 cursor-pointer transition-all`}
               >
                 <SiGithub color="white" size={30} />
               </a>
-              <a
+              {/* <a
                 rel="noreferrer"
                 target="_blank"
                 href="https://www.linkedin.com/in/adam-sims1203"
                 className={`px-2 hover:scale-125 cursor-pointer transition-all`}
               >
                 <SiLinkedin color="white" size={30} />
-              </a>
+              </a> */}
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://wa.me/+15056249009"
+                href="https://wa.me/+12766442638"
                 className={`px-2 hover:scale-125 cursor-pointer transition-all`}
               >
                 <SiWhatsapp color="white" size={30} />

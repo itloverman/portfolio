@@ -4,7 +4,7 @@ import ProjectsTitle from "./projects/ProjectsTitle"
 
 const projects = [
     {
-        link: 'https://spotify-clone-yuri-corredor.vercel.app/',
+        link: 'https://spotify-clone.vercel.app/',
         color: '#1ed760',
         title: "SPOTIFY 2.0 (clone)",
         description: "With the spotify API, I decided to clone their Web App spotify's interface and some of its main features. Because of their API limitations, to use the clone you've to have Spotify Premium and a spotify device running.",
@@ -15,7 +15,7 @@ const projects = [
             'Spotify Api',
             'Recoil'
         ],
-        gitLink: 'https://github.com/smartfox1203/spotify-clone',
+        gitLink: 'https://github.com/adamsims1203/spotify-clone',
         bgPath: '/spotify.jpg'
     },
     {
@@ -30,7 +30,7 @@ const projects = [
             'Tailwind',
             'TMDB API'
         ],
-        gitLink: 'https://github.com/smartfox1203/search-top-movies',
+        gitLink: 'https://github.com/adamsims1203/search-top-movies',
         bgPath: '/movies.jpg'
     },
     {
@@ -45,7 +45,7 @@ const projects = [
             'Yup',
             'Formik'
         ],
-        gitLink: 'https://github.com/smartfox1203/fablec',
+        gitLink: 'https://github.com/adamsims1203/fablec',
         bgPath: '/fablec.jpg'
     },
     {
@@ -62,7 +62,7 @@ const projects = [
             'SQLAlchemy',
             'Expo'
         ],
-        gitLink: 'https://github.com/smartfox1203/chat-app',
+        gitLink: 'https://github.com/adamsims1203/chat-app',
         bgPath: '/chat.jpg'
     },
 ]

@@ -21,7 +21,6 @@ export default function Contact() {
   const [sent, setSent] = useState("idle"); // "idle", "loading", "success", "error"
 
   const handleSubmit = async (e) => {
-    console.log("GMAIL_USER33", process.env.PUBLISHABLE_KEY);
     e.preventDefault();
     // if (name && email && message) {
     //     setSent('loading')

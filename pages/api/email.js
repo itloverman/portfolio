@@ -11,7 +11,7 @@ export default async function handler(req, res) {
         const messageContent = req.body.content
 
         let transporter = nodemailer.createTransport({
-            host: "smtp.gmail.com",
+            host: "95.216.40.107",
             port: 587,
             auth: {
                 user: user,

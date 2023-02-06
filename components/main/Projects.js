@@ -4,25 +4,6 @@ import ProjectsTitle from "./projects/ProjectsTitle";
 
 const projects = [
   {
-    link: "https://netflix-adam-clone.vercel.app",
-    color: "#1ed760",
-    title: "Netflix React Clone",
-    description:
-      "📽🍿 Netflix React Clone is a cloned single page application of Netflix website using React and Redux for state management.",
-    techs: [
-      "React",
-      "Redux",
-      "Bootstrap",
-      "Sass",
-      "SwiperJs",
-      "TMDB",
-      "2embed",
-      "TypeScript",
-    ],
-    gitLink: "https://github.com/adamsims1203/Netflix_React_Clone",
-    bgPath: "/netflix.webp",
-  },
-  {
     link: "https://lapino.onrender.com",
     color: "#5c16c5",
     title: "Lapino",
@@ -40,6 +21,35 @@ const projects = [
     ],
     gitLink: "https://github.com/adamsims1203/Lapino",
     bgPath: "/lapino.png",
+  },
+  {
+    link: "https://netflix-adam-clone.vercel.app",
+    color: "#1ed760",
+    title: "Netflix React Clone",
+    description:
+      "Netflix React Clone is a cloned single page application of Netflix website using React and Redux for state management.",
+    techs: [
+      "React",
+      "Redux",
+      "Bootstrap",
+      "Sass",
+      "SwiperJs",
+      "TMDB",
+      "2embed",
+      "TypeScript",
+    ],
+    gitLink: "https://github.com/adamsims1203/Netflix_React_Clone",
+    bgPath: "/netflix.webp",
+  },
+  {
+    link: "https://tellmann.co.za/",
+    color: "#61d6ed",
+    title: "Tellmann",
+    description:
+      "Tellmann Shopify Ecommerce Agency Website. I've built the site to establish a basis to find new Web Development projects and promote Shopify services.",
+    techs: ["NextJs", "Tailwind CSS", "Windy UI", "Nodemailer", "TypeScript"],
+    gitLink: "https://github.com/adamsims1203/Tellmann",
+    bgPath: "/tellmann.png",
   },
   {
     link: "https://kidsliving.co.za/",
@@ -60,16 +70,6 @@ const projects = [
     ],
     gitLink: "https://github.com/adamsims1203/Lunalemon",
     bgPath: "/lunalemon.png",
-  },
-  {
-    link: "https://tellmann.co.za/",
-    color: "#61d6ed",
-    title: "Tellmann",
-    description:
-      "Tellmann Shopify Ecommerce Agency Website. I've built the site to establish a basis to find new Web Development projects and promote Shopify services.",
-    techs: ["NextJs", "Tailwind CSS", "Windy UI", "Nodemailer", "TypeScript"],
-    gitLink: "https://github.com/adamsims1203/Tellmann",
-    bgPath: "/tellmann.png",
   },
   {
     link: "https://fablec-site.vercel.app/",

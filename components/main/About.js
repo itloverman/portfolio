@@ -42,14 +42,15 @@ export default function About() {
               ABOUT ME
             </h1>
             <p className="px-4 sm:px-16 pb-8 font-bold">
-              Ambitious software developer with passion for learning new skills.
-              Obsessed with application security and automating tasks. Expertise
-              lies in utilizing modern technologies such as Node.js, React, Next.js and
-              Angular to design and implement robust and user-friendly web
-              solutions. Bringing forth a motivated attitude and a variety of
-              powerful skills. I love doing a lot of things, and one of them is
-              reading Sci-Fi books. After reading Project Hail Mary by Andy
-              Weir, I was inspired to do my personal portfolio. So here it is.
+              Experienced Full Stack Engineer with a passion for building
+              scalable and high-performance web applications. With expertise in
+              technologies such as JavaScript, Node.js, and React, I have a
+              proven ability to design and implement efficient and scalable
+              solutions for clients in various industries. I'm always seeking
+              new challenges and opportunities to enhance my skills and deliver
+              the best possible user experience. In my free time, I enjoy
+              reading and exploring new technologies to stay ahead of the curve.
+              Let's build something great together!
             </p>
           </div>
         </div>

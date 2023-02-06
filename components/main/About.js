@@ -42,7 +42,7 @@ export default function About() {
               ABOUT ME
             </h1>
             <p className="px-4 sm:px-16 pb-8 font-bold">
-              Experienced Senior Full Stack Engineer with a passion for building
+              Experienced Full Stack Engineer with a passion for building
               scalable and high-performance web applications. With expertise in
               technologies such as JavaScript, Node.js, and React, I have a
               proven ability to design and implement efficient and scalable

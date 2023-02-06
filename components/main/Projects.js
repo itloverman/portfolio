@@ -4,7 +4,7 @@ import ProjectsTitle from "./projects/ProjectsTitle";
 
 const projects = [
   {
-    link: "netflix-adam-clone.vercel.app",
+    link: "https://netflix-adam-clone.vercel.app",
     color: "#1ed760",
     title: "Netflix React Clone",
     description:

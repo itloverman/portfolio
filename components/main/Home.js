@@ -94,14 +94,14 @@ export default function Home() {
               >
                 <SiLinkedin color="white" size={30} />
               </a> */}
-              <a
+              {/* <a
                 rel="noreferrer"
                 target="_blank"
                 href="https://wa.me/+12766442638"
                 className={`px-2 hover:scale-125 cursor-pointer transition-all`}
               >
                 <SiWhatsapp color="white" size={30} />
-              </a>
+              </a> */}
               <a
                 rel="noreferrer"
                 target="_blank"

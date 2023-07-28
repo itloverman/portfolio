@@ -19,7 +19,7 @@ const projects = [
       "Tailwind CSS",
       "TypeScript",
     ],
-    gitLink: "https://github.com/adamsims1203/Lapino",
+    gitLink: "https://github.com/brainstormbuddy/Lapino",
     bgPath: "/lapino.png",
   },
   {
@@ -38,7 +38,7 @@ const projects = [
       "2embed",
       "TypeScript",
     ],
-    gitLink: "https://github.com/adamsims1203/Netflix_React_Clone",
+    gitLink: "https://github.com/brainstormbuddy/Netflix_React_Clone",
     bgPath: "/netflix.webp",
   },
   {
@@ -48,7 +48,7 @@ const projects = [
     description:
       "Tellmann Shopify Ecommerce Agency Website. I've built the site to establish a basis to find new Web Development projects and promote Shopify services.",
     techs: ["NextJs", "Tailwind CSS", "Windy UI", "Nodemailer", "TypeScript"],
-    gitLink: "https://github.com/adamsims1203/Tellmann",
+    gitLink: "https://github.com/brainstormbuddy/Tellmann",
     bgPath: "/tellmann.png",
   },
   {
@@ -68,7 +68,7 @@ const projects = [
       "Zod",
       "TypeScript",
     ],
-    gitLink: "https://github.com/adamsims1203/Lunalemon",
+    gitLink: "https://github.com/brainstormbuddy/Lunalemon",
     bgPath: "/lunalemon.png",
   },
   {
@@ -85,7 +85,7 @@ const projects = [
       "Nodemailer",
       "TypeScript",
     ],
-    gitLink: "https://github.com/adamsims1203/fablec",
+    gitLink: "https://github.com/brainstormbuddy/fablec",
     bgPath: "/fablec.jpg",
   },
   {
@@ -103,7 +103,7 @@ const projects = [
       "SQLAlchemy",
       "Expo",
     ],
-    gitLink: "https://github.com/adamsims1203/chat-app",
+    gitLink: "https://github.com/brainstormbuddy/chat-app",
     bgPath: "/chat.jpg",
   },
 ];

@@ -81,7 +81,7 @@ export default function Home() {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://github.com/adamsims1203"
+                href="https://github.com/brainstormbuddy"
                 className={`px-2 hover:scale-125 cursor-pointer transition-all`}
               >
                 <SiGithub color="white" size={30} />

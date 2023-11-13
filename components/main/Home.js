@@ -75,13 +75,13 @@ export default function Home() {
             animate={controls}
             className="z-[9999] justify-center flex flex-col p-3 m-2 h-fit bg-black bg-opacity-75 rounded-md"
           >
-            <h1 className="text-4xl sm:text-6xl font-bold">Adam Sims</h1>
+            <h1 className="text-4xl sm:text-6xl font-bold">Edison Harris</h1>
             <h3 className="text-xl sm:text-2xl">Full Stack Engineer</h3>
             <div className="flex flex-wrap self-end my-2 w-full justify-center">
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://github.com/brainstormbuddy"
+                href="https://github.com/itloverman"
                 className={`px-2 hover:scale-125 cursor-pointer transition-all`}
               >
                 <SiGithub color="white" size={30} />
@@ -121,7 +121,7 @@ export default function Home() {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://t.me/adamsims1203"
+                href="https://t.me/itloverman"
                 className={`px-2 hover:scale-125 cursor-pointer transition-all`}
               >
                 <SiTelegram color="white" size={30} />

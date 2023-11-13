@@ -28,11 +28,11 @@ export default function About() {
       <div className="max-w-7xl text-white z-[9999]">
         <div className="flex flex-col md:flex-row justify-center items-center md:items-start overflow-hidden">
           <img
-            alt="astronaut"
+            alt="my photo"
             ref={imgRef}
             className="order-2 md:order-1"
             width={280}
-            src="astronaut.jpg"
+            src="me.png" style={{borderRadius:'9rem'}}
           />
           <div className="order-1 md:order-2 ">
             <h1

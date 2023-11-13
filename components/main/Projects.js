@@ -19,7 +19,7 @@ const projects = [
       "Tailwind CSS",
       "TypeScript",
     ],
-    gitLink: "https://github.com/brainstormbuddy/Lapino",
+    gitLink: "https://github.com/itloverman/lapino",
     bgPath: "/lapino.png",
   },
   {
@@ -38,7 +38,7 @@ const projects = [
       "2embed",
       "TypeScript",
     ],
-    gitLink: "https://github.com/brainstormbuddy/Netflix_React_Clone",
+    gitLink: "https://github.com/itloverman/netflix",
     bgPath: "/netflix.webp",
   },
   {
@@ -48,7 +48,7 @@ const projects = [
     description:
       "Tellmann Shopify Ecommerce Agency Website. I've built the site to establish a basis to find new Web Development projects and promote Shopify services.",
     techs: ["NextJs", "Tailwind CSS", "Windy UI", "Nodemailer", "TypeScript"],
-    gitLink: "https://github.com/brainstormbuddy/Tellmann",
+    gitLink: "https://github.com/itloverman/Tellman",
     bgPath: "/tellmann.png",
   },
   {
@@ -68,25 +68,25 @@ const projects = [
       "Zod",
       "TypeScript",
     ],
-    gitLink: "https://github.com/brainstormbuddy/Lunalemon",
+    gitLink: "https://github.com/itloverman/kidslivingsite",
     bgPath: "/lunalemon.png",
   },
   {
-    link: "https://fablec-site.vercel.app/",
+    link: "https://withjoy.com",
     color: "#FF7A00",
-    title: "FABLEC",
+    title: "Joy",
     description:
-      "I was contracted to do a marketing campaign to this company and then they decided to extend the contract and asked for a simple website where they could display their services. So this was what I did.",
+      "The Joy website is built with Gatsby and booking wedding ceremony, post and invite guests.",
     techs: [
-      "NextJs",
+      "Gatsby",
       "Tailwind CSS",
       "Yup",
       "Formik",
       "Nodemailer",
       "TypeScript",
     ],
-    gitLink: "https://github.com/brainstormbuddy/fablec",
-    bgPath: "/fablec.jpg",
+    gitLink: "https://github.com/itloverman/withjoy",
+    bgPath: "/withjoy.png",
   },
   {
     link: null,
@@ -103,7 +103,7 @@ const projects = [
       "SQLAlchemy",
       "Expo",
     ],
-    gitLink: "https://github.com/brainstormbuddy/chat-app",
+    gitLink: "https://github.com/itloverman/chat-app",
     bgPath: "/chat.jpg",
   },
 ];

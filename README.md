@@ -1,6 +1,6 @@
 # Portfolio
 
-![THumb](/readme/thumb.png)
+![THumb](/readme/mark.jpg)
 
 Visit website [HERE](https://yuricorredor.tech/).
 
@@ -36,7 +36,7 @@ $PROJECT_ROOT
 # Run Locally
 
 ```bash
-git clone https://github.com/YuriCorredor/portfolio.git
+git clone https://github.com/itloverman/portfolio.git
 cd portfolio
 # install dependencies
 npm install

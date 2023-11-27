@@ -105,7 +105,7 @@ export default function Home() {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://www.discord.com/users/880275150786945064"
+                href="https://www.discord.com/users/1154600144365420574"
                 className={`px-2 hover:scale-125 cursor-pointer transition-all`}
               >
                 <SiDiscord color="white" size={30} />

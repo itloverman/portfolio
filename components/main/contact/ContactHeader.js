@@ -36,7 +36,7 @@ export default function ContactHeader() {
     return (
         <motion.div ref={ref} variants={divVariants} initial="hidden" animate={controls}>
             <h1 className="font-bold text-4xl sm:text-6xl">Send me a message!</h1>
-            <p className="text-xl sm:text-2xl py-4">Say hello, dear astronaut!</p>
+            <p className="text-xl sm:text-2xl py-4">Say hello, dear Edison!</p>
         </motion.div>
     )
 }
